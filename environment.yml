@@ -1,0 +1,56 @@
+name: onets
+channels:
+- conda-forge
+dependencies:
+- aiohttp
+- bokeh
+- bottleneck
+- cartopy
+- cf_units
+- cf_xarray
+- cftime #=1.0.3.4
+- cmocean
+- dask
+- distributed
+- dask-jobqueue
+- dask-mpi
+- esmpy
+- fsspec
+- intake
+- intake-esm
+- intake-xarray
+- ipywidgets
+- joblib
+- jupyter_contrib_nbextensions
+- jupyter-book
+- jupyter_client==6.1.12
+- jupyterlab
+- matplotlib
+- nbformat
+- nbterm
+- nc-time-axis
+- ncar-jobqueue
+- netcdf4
+- numba
+- numpy
+- pandas
+- pint
+- pip
+- pop-tools
+- pydantic
+- pytest
+- pyyaml
+- python=3.7
+- scipy
+- seaborn
+- seawater
+- statsmodels
+- toolz
+- tqdm
+- typer
+- xarray
+- xesmf #=0.1.1
+- xgcm
+- xhistogram
+- xrft
+- zarr
